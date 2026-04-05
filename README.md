@@ -1,4 +1,4 @@
-\# My Portfolio Website
+# My Portfolio Website
 
 
 
@@ -6,7 +6,7 @@ This is my personal portfolio website created using HTML and CSS.
 
 
 
-\## Website Structure
+# Website Structure
 
 The website consists of four connected pages:
 
@@ -22,7 +22,7 @@ The website consists of four connected pages:
 
 
 
-\## Features
+# Features
 
 \- Multi-page navigation
 
@@ -38,7 +38,7 @@ The website consists of four connected pages:
 
 
 
-\## Technologies Used
+# Technologies Used
 
 \- HTML5
 
@@ -46,13 +46,13 @@ The website consists of four connected pages:
 
 
 
-\## Purpose
+# Purpose
 
 This portfolio website was created as part of my User Interface Design lab assignment to showcase my profile, skills, projects, and creativity in webpage design.
 
 
 
-\## Author
+# Author
 
 Janwi Yadav
 
