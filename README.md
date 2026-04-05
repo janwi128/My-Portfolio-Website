@@ -34,7 +34,7 @@ The website consists of four connected pages:
 
 \- Hover effects for interactive design
 
-\- Clean and aesthetic layout
+\- Clean  layout
 
 \-This portfolio website is hosted using GitHub Pages, which allows my HTML and CSS files to be publicly accessible through a live URL.
 
