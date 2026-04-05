@@ -36,7 +36,7 @@ The website consists of four connected pages:
 
 \- Clean and aesthetic layout
 
-
+\-This portfolio website is hosted using GitHub Pages, which allows my HTML and CSS files to be publicly accessible through a live URL.
 
 # Technologies Used
 
